@@ -34,9 +34,6 @@ Classlar o‘ziga keraksiz metodlarni implement qilishga majbur bo‘lmasligi ke
 Yuqori darajadagi modullar past darajadagi modullarga bog‘liq bo‘lmasligi kerak.
 Ikkalasi ham abstraksiyaga bog‘liq bo‘lishi kerak.
 
-Bu yerda Notification classi EmailSender ga qattiq bog‘liq emas.
-Xohlasak, SmsSender, WhatsAppSender qo‘shib ishlata olamiz.
-
 Xulosa
 
 - S – Har class bitta vazifaga ega bo‘lsin.
