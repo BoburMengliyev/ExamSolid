@@ -16,13 +16,9 @@ Bitta class ichida ham chiqarish, ham saqlash, ham hisoblash vazifalari jamlanga
 Classlar kengaytirishga ochiq, lekin o‘zgartirishga yopiq bo‘lishi kerak.
 Ya’ni yangi funksiyalar qo‘shishda mavjud kodni o‘zgartirmaslik kerak.
 
-Agar yangi chegirma qo‘shmoqchi bo‘lsak — interfeysni implement qilamiz, eski kodni o‘zgartirmaymiz.
-
 ## L – Liskov Substitution Principle (LSP)
 
 Vorislashgan class (child) ota class (parent) o‘rnida bemalol ishlay olishi kerak.
-
-Bu LSP ga zid, chunki Penguin ni Bird o‘rnida ishlatib bo‘lmaydi. To‘g‘risi — “uchadigan qushlar” va “uchmaydigan qushlar”ni alohida abstraktsiyaga ajratish.
 
 ## I – Interface Segregation Principle (ISP)
 
