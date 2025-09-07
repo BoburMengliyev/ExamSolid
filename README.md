@@ -29,11 +29,6 @@ Bu LSP ga zid, chunki Penguin ni Bird o‘rnida ishlatib bo‘lmaydi. To‘g‘r
 Bir katta interfeys o‘rniga — bir nechta kichik, aniq interfeyslar bo‘lishi kerak.
 Classlar o‘ziga keraksiz metodlarni implement qilishga majbur bo‘lmasligi kerak.
 
-## I – Interface Segregation Principle (ISP)
-
-Bir katta interfeys o‘rniga — bir nechta kichik, aniq interfeyslar bo‘lishi kerak.
-Classlar o‘ziga keraksiz metodlarni implement qilishga majbur bo‘lmasligi kerak.
-
 ## D – Dependency Inversion Principle (DIP)
 
 Yuqori darajadagi modullar past darajadagi modullarga bog‘liq bo‘lmasligi kerak.
